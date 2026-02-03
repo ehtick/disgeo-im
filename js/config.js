@@ -2,9 +2,9 @@ let respecConfig = {
   useLogo: true,
   useLabel: true,
   // title is verplicht! Neem hier de titel van het document op ----------------------
-  title: "Informatiemodel Samenhangende Objecten",
+  title: "Conceptueel Informatiemodel Bestuurlijke gebieden",
   // subtitle is NIET verplicht
-  subtitle: "Bestuurlijke gebieden",
+  //subtitle: "",
  
   //-- specStatus is verplicht! (activeer 1 van de volgende) --------------------------
   //specStatus: "wv",                   // Werkversie
@@ -33,7 +33,7 @@ let respecConfig = {
   // licence: "cc-by",                 // Attribution, met bronvermelding
   
   //-- shortName is verplicht! (komt in de URL: kies logische afkorting)--------------
-  shortName: "imsor",
+  shortName: "cim-bg",
   
   //edDraftURI = De URI van de draft version. Deze wordt automatisch afgeleid van de github URI; maar kan hier overschreven worden. 
   edDraftURI: "https://geonovum.github.io/disgeo-im",

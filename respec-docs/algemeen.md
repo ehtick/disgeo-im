@@ -119,9 +119,9 @@ Het EMSO schrijft voor dat moet worden voorgesorteerd op de mogelijkheid om de [
 
 Dit betekent dat het model ruimte moet bieden aan 3D-primitieven in een 3D-ruimte. Hieruit volgt dat het [[EMSO]] in zijn totaliteit beschouwd moet worden als een 3D-model. Het verschilt per onderwerp of een uitwerking in 2D (bijv. `BestuurlijkGebied`), 2.5D (bijv. `Verharding`), danwel 3D(bijv. `Gebouw`) nodig is.
 
-Het [[EMSO]] hanteert ten aanzien van dimensies tegenstrijdige uitgangspunten. Enerzijds eist het aansluiting op ISO 19125, dat het model beprekt tot 2D-primitieven. Anderzijds eist het EMSO dat het model voorsorteert op driedimensionale objectbeschrijving. Het [[EMSO]] interpreteert deze uitganspunten als volgt: _ISO 19125 is leidend voor 2D-objecten en ISO-19107 voor bogen en 3D-objecten_.
+Het [[EMSO]] hanteert ten aanzien van dimensies tegenstrijdige uitgangspunten. Enerzijds eist het aansluiting op ISO 19125, dat het model beprekt tot 2D-primitieven. Anderzijds eist het EMSO dat het model voorsorteert op driedimensionale objectbeschrijving. Het [[EMSO]] interpreteert deze uitgangspunten als volgt: _ISO 19125 is leidend voor 2D-objecten en ISO-19107 voor bogen en 3D-objecten_.
 
-Hoofdstuk 5 tot en met 8 in het [[EMSO]] geven per geo-informatieobject aan welk geometrietype van toepassing is. `RegistratieveRuimte` (waar `BestuurlijkGebied` onderdeel van is) wordt tweedimensionaal vastgelegd. Hiervoor zijn de geometrietypen `GM_Surface` (_vlak_) of `GM_MultiSurface` (_multi-vlak_) geschikt. Het hoofdstuk [[[#informatiemodel-informatiemodel-samenhangende-objecten-bestuurlijke-gebieden]]] van dit document beschrijft per geo-informatieobjecttype in detail hoe het [[EMSO]] dit vormgeeft.
+Hoofdstuk 5 tot en met 8 in het [[EMSO]] geven per geo-informatieobject aan welk geometrietype van toepassing is. `RegistratieveRuimte` (waar `BestuurlijkGebied` onderdeel van is) wordt tweedimensionaal vastgelegd. Hiervoor zijn de geometrietypen `GM_Surface` (_vlak_) of `GM_MultiSurface` (_multi-vlak_) geschikt. Het hoofdstuk [[[#conceptueel-informatiemodel-bestuurlijke-gebieden]]] van dit document beschrijft per geo-informatieobjecttype in detail hoe het [[EMSO]] dit vormgeeft.
 
 ### Coördinaatreferentiesystemen
 

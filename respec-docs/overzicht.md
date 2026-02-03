@@ -2,17 +2,17 @@
 
 ## Naam en Acroniemen
 
-IMSO - Informatiemodel Samenhangende Objecten
+CIM-BG - Conceptueel Informatiemodel Bestuurlijke gebieden
 
 ## Algemene beschrijving
-Het Informatiemodel Samenhangende Objecten (IMSO) wordt per thema uitgewerkt. Dit document beschrijft het thema *Bestuurlijke Gebieden*: de ruimtelijke gebieden waarover regionale openbare lichamen bestuur uitoefenen, en hun geometrie.
+Dit informatiemodel beschrijft *Bestuurlijke Gebieden*: de ruimtelijke gebieden waarover regionale openbare lichamen bestuur uitoefenen, en hun geometrie.
 
 ## Beschrijving inhoud
 
 Dit hoofdstuk beschrijft de inhoud van het thema Bestuurlijke Gebieden.
 
 ### Bestuurlijke gebieden
-Er is een belangrijke relatie tussen een [regionaal openbaar lichaam](#informatiemodel_imso_cm_domein_openbaar_lichaam_objecttype_regionaal_openbaar_lichaam) en een [bestuurlijk gebied](#informatiemodel_imso_cm_domein_bestuurlijk_gebied_objecttype_bestuurlijk_gebied). In de bestuurlijke indeling van het Koninkrijk der Nederlanden is een regionaal openbaar lichaam een overheid die bepaalde taken uitvoert binnen een bepaald _ruimtelijk_ gebied. De belangrijkste regionale openbare lichamen zijn het Rijk, de provincies, de gemeenten en de waterschappen, maar ook veiligheidsregio's behoren hiertoe. Een bestuurlijk gebied is dan dat bepaalde ruimtelijk gebied waarover een regionaal openbaar lichaam bestuur uitoefent.
+Er is een belangrijke relatie tussen een [regionaal openbaar lichaam](#informatiemodel_cim_bg_cm_domein_openbaar_lichaam_objecttype_regionaal_openbaar_lichaam) en een [bestuurlijk gebied](#informatiemodel_cim_bg_cm_domein_bestuurlijk_gebied_objecttype_bestuurlijk_gebied). In de bestuurlijke indeling van het Koninkrijk der Nederlanden is een regionaal openbaar lichaam een overheid die bepaalde taken uitvoert binnen een bepaald _ruimtelijk_ gebied. De belangrijkste regionale openbare lichamen zijn het Rijk, de provincies, de gemeenten en de waterschappen, maar ook veiligheidsregio's behoren hiertoe. Een bestuurlijk gebied is dan dat bepaalde ruimtelijk gebied waarover een regionaal openbaar lichaam bestuur uitoefent.
 
 #### Levenscyclus en tijdlijnen Bestuurlijk gebied
 
@@ -61,7 +61,7 @@ Regionale openbare lichamen hebben met elkaar gemeen dat ze een bestuurlijk gebi
 Een *bestuurlijk gebied*, ook wel bestuursgebied genoemd, is het grondgebied waarover het bestuursorgaan haar invloed uitoefent. Een bestuurlijk gebied is dus niet hetzelfde als het voor het gebied verantwoordelijke bestuur. Het _gebied_ en het _bestuur_ zijn weliswaar aan elkaar gerelateerd, maar hebben hun eigen unieke eigenschappen. Een bestuurlijk gebied heeft een ruimtelijke aanduiding in de vorm van een geometrie en kan ook een naam toegewezen krijgen. De naam waarmee men in het dagelijkse spraakgebruik het grondgebied associeert, is meestal de officiële naam van het gerelateerde openbaar lichaam, bijvoorbeeld 'Apeldoorn' of 'Zeeland'.
 
 #### Maritieme zones
-Een regionaal openbaar lichaam heeft vaak maar één bestuurlijk gebied. Een uitzondering hierop is het openbaar lichaam _Rijk_. Naast het _Rijksgebied_ bestuurt het Rijk ook vier gebieden op zee; zogenaamde maritieme zones. In totaal onderscheidt dit model vijf typen bestuurlijke gebieden die onder de bestuurlijke verantwoordelijkheid van het Rijk vallen.
+Een regionaal openbaar lichaam heeft vaak maar één bestuurlijk gebied. Een uitzondering hierop is het openbaar lichaam _Rijk_. Naast het _Landgebied_ bestuurt het Rijk ook vier gebieden op zee; zogenaamde maritieme zones. In totaal onderscheidt dit model vijf typen bestuurlijke gebieden die onder de bestuurlijke verantwoordelijkheid van het Rijk vallen.
 
 <aside class="example" title="Maritieme Zones">
 
@@ -90,26 +90,26 @@ De Rijksgrens in het Eems-Dollard gebied volgt de equidistantielijn volgens de N
 
 Voor de weergave van de Rijksgrens op kaarten en in registraties wordt het gebied begrensd door de Westereemsverdragslijn en de equidistantielijn als Nederlands grondgebied weergegeven.
 
-## IMSO Bestuurlijke gebieden in context
+## CIM-BG in context
 
 De bestuurlijke gebieden in dit informatiemodel hebben relaties met objecten in andere standaarden en registraties. Deze sectie beschrijft de belangrijkste relaties en hoe de gegevens uit verschillende bronnen samenhangen.
 
 <figure>
-   <img src="media/imso-context.drawio.png" alt="De context van IMSO"/>
-   <figcaption>De context van IMSO</figcaption>
+   <img src="media/imso-context.drawio.png" alt="De context van CIM-BG"/>
+   <figcaption>De context van CIM-BG</figcaption>
 </figure>
 
 Voor meer details over de scope en afbakening van bestuurlijke gebieden, zie het [scopedocument Bestuurlijke Gebieden](https://geonovum.github.io/disgeo-scope/bestuurlijkegebieden/).
 
 ### Context en uitgangspunten
 
-Het IMSO wordt ontwikkeld binnen de context van verschillende programma's en uitgangspunten:
+Het CIM-BG is ontwikkeld binnen de context van verschillende programma's en uitgangspunten:
 
-- **Zicht op Nederland (ZON)**: Het programma waarbinnen geo-informatie in samenhang beschikbaar wordt gemaakt. Zie [IMSO en Zicht op Nederland](#imso-en-zicht-op-nederland) in de inleiding.
+- **Zicht op Nederland (ZON)**: Het programma waarbinnen geo-informatie in samenhang beschikbaar wordt gemaakt. Zie [Achtergrond](#achtergrond) in de inleiding.
 
-- **Federatief Datastelsel (FDS)**: Het IMSO sluit aan bij de [uitgangspunten en principes van het Federatief Datastelsel](https://realisatieibds.nl/groups/view/0056c9ef-5c2e-44f9-a998-e735f1e9ccaa/federatief-datastelsel/wiki/view/b7f88922-44e6-4f62-bf01-4478786d7010/uitgangspunten-en-principes-van-het-fds). Belangrijke principes zijn *data bij de bron* (data wordt niet gekopieerd maar beschikbaar gesteld), interoperabiliteit tussen datastelsels, en *decentraal wat kan, centraal wat moet*.
+- **Federatief Datastelsel (FDS)**: Het CIM-BG sluit aan bij de [uitgangspunten en principes van het Federatief Datastelsel](https://realisatieibds.nl/groups/view/0056c9ef-5c2e-44f9-a998-e735f1e9ccaa/federatief-datastelsel/wiki/view/b7f88922-44e6-4f62-bf01-4478786d7010/uitgangspunten-en-principes-van-het-fds). Belangrijke principes zijn *data bij de bron* (data wordt niet gekopieerd maar beschikbaar gesteld), interoperabiliteit tussen datastelsels, en *decentraal wat kan, centraal wat moet*.
 
-- **EMSO**: De "Eisen aan model samenhangende objectenregistratie" ([[EMSO]]) beschrijft de uitgangspunten voor het modelleren van geo-objecten in samenhang. Het IMSO past deze uitgangspunten toe.
+- **EMSO**: De "Eisen aan model samenhangende objectenregistratie" ([[EMSO]]) beschrijft de uitgangspunten voor het modelleren van geo-objecten in samenhang. Het CIM-BG past deze uitgangspunten toe.
 
 ### Bronnen
 
@@ -117,7 +117,7 @@ De geometrie van bestuurlijke gebieden wordt afgeleid uit de in dit hoofdstuk be
 
 #### Basisregistratie Kadaster (BRK)
 
-De geometrie van gemeenten, provincies en het Rijksgebied op land wordt afgeleid uit de kadastrale kaart, onderdeel van de Basisregistratie Kadaster (BRK). De relatie tussen bestuurlijke grenzen en de kadastrale kaart is als volgt:
+De geometrie van gemeenten, provincies en het Landgebied wordt afgeleid uit de kadastrale kaart, onderdeel van de Basisregistratie Kadaster (BRK). De relatie tussen bestuurlijke grenzen en de kadastrale kaart is als volgt:
 
 1. **Percelen** vormen de basis: elk perceel behoort tot precies één kadastrale gemeente
 2. **Kadastrale gemeenten** zijn via een relatietabel gekoppeld aan burgerlijke gemeenten

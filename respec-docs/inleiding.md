@@ -1,33 +1,23 @@
 # Inleiding
 
-Dit document beschrijft het Informatiemodel Samenhangende Objecten (IMSO) voor het thema *Bestuurlijke Gebieden*. Het model definieert bestuurlijke gebieden zoals gemeenten, provincies, waterschappen en maritieme zones, en hun relatie tot de verantwoordelijke overheidsorganisaties.
+Dit document beschrijft het Conceptueel Informatiemodel Bestuurlijke gebieden (CIM-BG). Het model definieert bestuurlijke gebieden zoals gemeenten, provincies, waterschappen en maritieme zones, en hun relatie tot de verantwoordelijke overheidsorganisaties.
 
 ## Doel
 
-Het IMSO beoogt geo-informatie in samenhang beschikbaar te maken. Voor het thema Bestuurlijke Gebieden betekent dit:
+Het CIM-BG beoogt geo-informatie over bestuurlijke gebieden in samenhang beschikbaar te maken. Dit betekent:
 - Een eenduidige definitie van bestuurlijke gebieden en hun geometrie
 - Een heldere relatie tussen gebieden en de openbare lichamen die erover besturen
 - Een basis voor het beantwoorden van vragen als: "Waar ligt de grens?" en "Welk openbaar lichaam is verantwoordelijk voor dit gebied?"
 
 ## Achtergrond en scope
 
-### IMSO en Zicht op Nederland
+### Achtergrond
 
-Het Informatiemodel Samenhangende Objecten (IMSO) wordt ontwikkeld vanuit de visie dat geo-informatie in samenhang beschikbaar moet zijn. Deze visie is onderdeel van het programma [Zicht op Nederland](https://zichtopnl.nl/) (ZON), waarin overheidspartijen in de GI-beraad samenwerken aan betrouwbare en breed beschikbare ruimtelijke informatie.
-
-Centraal in deze visie staat het gedachtegoed dat **data en datakoppelbaarheid** voorop staan, in plaats van de afzonderlijke registraties. Dit betekent:
-
-- **Meer afstemming bij gelijksoortige data**: harmonisatie in de manier waarop gelijksoortige objecten in verschillende geo-registraties worden vastgelegd
-- **Samenhang tussen data**: uniforme standaarden voor objectidentificatie en historiemodellen die het mogelijk maken om gegevens uit verschillende bronnen met elkaar te verbinden
-- **Flexibele uitbouw**: ontkoppeling van data-ontwikkeling en ICT-infrastructuur, zodat toekomstige behoeften kunnen worden geaccommodeerd
-
-Het document "Eisen aan model samenhangende objectenregistratie" ([[EMSO]]) beschrijft de uitgangspunten voor het modelleren van geo-objecten in samenhang. Het IMSO past deze uitgangspunten toe.
+Het CIM-BG is ontwikkeld vanuit de visie dat geo-informatie in samenhang beschikbaar moet zijn. Deze visie is onderdeel van het programma [Zicht op Nederland](https://zichtopnl.nl/) (ZON), waarin overheidspartijen in de GI-beraad samenwerken aan betrouwbare en breed beschikbare ruimtelijke informatie. Het document "Eisen aan model samenhangende objectenregistratie" ([[EMSO]]) beschrijft de uitgangspunten voor het modelleren van geo-objecten in samenhang. Het CIM-BG past deze uitgangspunten toe.
 
 ### Bestuurlijke Gebieden
 
-Het IMSO wordt uitgewerkt per thema. Dit document beschrijft het thema *Bestuurlijke Gebieden*.
-
-De keuze voor dit thema komt voort uit:
+Het opstellen van een conceptueel informatiemodel voor bestuurlijke gebieden als onderwerp komt voort uit:
 - De behoefte aan een samenhangende voorziening voor bestuurlijke gebieden
 - Het gebruik in verschillende registraties en informatieproducten, zoals bijvoorbeeld in het Digitaal Stelsel Omgevingswet (DSO), waar bestuurlijke grenzen bepalen wie het bevoegd gezag is
 - De wens om te kunnen beantwoorden: "Wie is het bevoegd gezag op deze locatie?" en "Waar ligt de grens tussen bestuurlijke gebieden?"
@@ -38,7 +28,7 @@ Dit informatiemodel beschrijft bestuurlijke gebieden (met hun geometrie) en hun 
 
 De volgende typen bestuurlijke gebieden zijn in scope:
 
-- Rijksgebied
+- Landgebied
 - Provinciegebied
 - Gemeentegebied
 - Waterschapsgebied
@@ -73,13 +63,13 @@ De openbare lichamen Bonaire, Sint Eustatius en Saba (BES-eilanden) vallen buite
 
 **Wijken en buurten**
 
-Wijken en buurten zijn subgebieden van gemeentegebieden, maar geen bestuurlijke gebieden in de zin van dit informatiemodel. Ze vallen daarom buiten de huidige scope. Wijken en buurten kunnen op termijn als registratieve ruimten worden toegevoegd aan het IMSO en gerelateerd worden aan gemeentegebieden.
+Wijken en buurten zijn subgebieden van gemeentegebieden, maar geen bestuurlijke gebieden in de zin van dit informatiemodel. Ze vallen daarom buiten de huidige scope. Wijken en buurten kunnen op termijn als registratieve ruimten worden toegevoegd en gerelateerd worden aan gemeentegebieden.
 
 ## Leeswijzer
 
 Puntsgewijs:
  - Hoofdstuk 2: geometrie en levenscyclus van objecten.
- - Hoofdstuk 3: algemene beschrijving van het IMSO en de inhoud per onderwerp
+ - Hoofdstuk 3: algemene beschrijving van het CIM-BG en de inhoud per onderwerp
  - Hoofdstuk 4: het informatiemodel in detail
  - Tot slot bijlagen en referenties.
 

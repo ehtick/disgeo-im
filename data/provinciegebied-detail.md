@@ -8,7 +8,7 @@ Bij het modelleren zijn de volgende principes gehanteerd.
 1. Een 'Provincie' voert het bestuur over één 'Provinciegebied'.
 1. Een 'Provinciegebied' wordt aangeduid met een geometrie die bestaat uit één of meerdere vlakken.
 1. Een 'Provinciegebied' wordt samengesteld uit (één of) meerdere gemeentegebieden.
-1. Een 'Provinciegebied' ligt altijd in een/het 'Rijksgebied'. De geometrie van een 'Provinciegebied' valt dus volledig binnen het 'Rijksgebied'.
+1. Een 'Provinciegebied' ligt altijd in een/het 'Landgebied'. De geometrie van een 'Provinciegebied' valt dus volledig binnen het 'Landgebied'.
 1. De geometrieën van alle 'Provinciegebieden' sluiten naadloos op elkaar aan, zonder gaten en zonder overlap.
-1. De geometrieën van alle 'Provinciegebieden' bedekken gezamenlijk het gehele oppervlak van het 'Rijksgebied'.
+1. De geometrieën van alle 'Provinciegebieden' bedekken gezamenlijk het gehele oppervlak van het 'Landgebied'.
 1. De relatie(s) tussen de openbare lichamen onderling vallen vooralsnog buiten de scope van dit model.
