@@ -39,7 +39,7 @@
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/registratieve_ruimte">http://begrippen.geostandaarden.nl/disgeo/id/begrip/registratieve_ruimte</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/registratieve_ruimte">http://begrippen.geostandaarden.nl/bg/id/begrip/registratieve_ruimte</a>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ Fase van de levenscyclus waarin een bestuurlijk gebied zich bevindt.</td>
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/bestuurlijk_gebied">http://begrippen.geostandaarden.nl/disgeo/id/begrip/bestuurlijk_gebied</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/bestuurlijk_gebied">http://begrippen.geostandaarden.nl/bg/id/begrip/bestuurlijk_gebied</a>
 </td>
 </tr>
 <tr>
@@ -635,7 +635,7 @@ De geometrische afbakening van het bevattendGebied, waarbinnen de geometrie van 
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/gemeentegebied">http://begrippen.geostandaarden.nl/disgeo/id/begrip/gemeentegebied</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/gemeentegebied">http://begrippen.geostandaarden.nl/bg/id/begrip/gemeentegebied</a>
 </td>
 </tr>
 <tr>
@@ -937,7 +937,7 @@ Relatie die aangeeft dat dit object een gemeentegebied van een regionaal openbaa
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/provinciegebied">http://begrippen.geostandaarden.nl/disgeo/id/begrip/provinciegebied</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/provinciegebied">http://begrippen.geostandaarden.nl/bg/id/begrip/provinciegebied</a>
 </td>
 </tr>
 <tr>
@@ -1169,7 +1169,7 @@ Relatie die aangeeft dat dit object een provinciegebied van een regionaal openba
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/landgebied">http://begrippen.geostandaarden.nl/disgeo/id/begrip/landgebied</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/landgebied">http://begrippen.geostandaarden.nl/bg/id/begrip/landgebied</a>
 </td>
 </tr>
 <tr>
@@ -1341,7 +1341,7 @@ Dit gebied is inclusief de grote wateren die niet door de waterschappen beheerd 
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/waterschapsgebied">http://begrippen.geostandaarden.nl/disgeo/id/begrip/waterschapsgebied</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/waterschapsgebied">http://begrippen.geostandaarden.nl/bg/id/begrip/waterschapsgebied</a>
 </td>
 </tr>
 <tr>
@@ -1505,7 +1505,7 @@ Relatie die aangeeft dat dit object een waterschapsgebied van een regionaal open
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/veiligheidsregiogebied">http://begrippen.geostandaarden.nl/disgeo/id/begrip/veiligheidsregiogebied</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/veiligheidsregiogebied">http://begrippen.geostandaarden.nl/bg/id/begrip/veiligheidsregiogebied</a>
 </td>
 </tr>
 <tr>
@@ -1671,7 +1671,7 @@ Relatie die aangeeft dat dit object een veiligheidsregiogebied van een regionaal
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/maritieme_zone">http://begrippen.geostandaarden.nl/disgeo/id/begrip/maritieme_zone</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/maritieme_zone">http://begrippen.geostandaarden.nl/bg/id/begrip/maritieme_zone</a>
 </td>
 </tr>
 <tr>
@@ -1756,7 +1756,7 @@ Dit gebied is ook wel bekend als “de 12-mijlszone”. In het Eems-Dollard gebi
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/nederlandse_territoriale_zee">http://begrippen.geostandaarden.nl/disgeo/id/begrip/nederlandse_territoriale_zee</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/nederlandse_territoriale_zee">http://begrippen.geostandaarden.nl/bg/id/begrip/nederlandse_territoriale_zee</a>
 </td>
 </tr>
 <tr>
@@ -1926,7 +1926,7 @@ Relatie die aangeeft dat dit object een territoriale zee van een regionaal openb
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/nederlandse_aansluitende_zone">http://begrippen.geostandaarden.nl/disgeo/id/begrip/nederlandse_aansluitende_zone</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/nederlandse_aansluitende_zone">http://begrippen.geostandaarden.nl/bg/id/begrip/nederlandse_aansluitende_zone</a>
 </td>
 </tr>
 <tr>
@@ -2096,7 +2096,7 @@ Relatie die aangeeft dat dit object een aansluitende zone van een regionaal open
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/nederlandse_exclusieve_economische_zone">http://begrippen.geostandaarden.nl/disgeo/id/begrip/nederlandse_exclusieve_economische_zone</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/nederlandse_exclusieve_economische_zone">http://begrippen.geostandaarden.nl/bg/id/begrip/nederlandse_exclusieve_economische_zone</a>
 </td>
 </tr>
 <tr>
@@ -2268,7 +2268,7 @@ Binnen het Europese deel van het Rijk kent deze dezelfde contour als de Nederlan
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/nederlandse_continentaal_plat">http://begrippen.geostandaarden.nl/disgeo/id/begrip/nederlandse_continentaal_plat</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/nederlandse_continentaal_plat">http://begrippen.geostandaarden.nl/bg/id/begrip/nederlandse_continentaal_plat</a>
 </td>
 </tr>
 <tr>
@@ -2597,7 +2597,7 @@ Waterschapsgebied</td>
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/levensfase ">http://begrippen.geostandaarden.nl/disgeo/id/begrip/levensfase </a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/levensfase ">http://begrippen.geostandaarden.nl/bg/id/begrip/levensfase </a>
 </td>
 </tr>
 <tr>
@@ -2681,7 +2681,7 @@ Object dat door het bevoegd gezag is ingetrokken op grond van wet- of regelgevin
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/overheidsorganisatie">http://begrippen.geostandaarden.nl/disgeo/id/begrip/overheidsorganisatie</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/overheidsorganisatie">http://begrippen.geostandaarden.nl/bg/id/begrip/overheidsorganisatie</a>
 </td>
 </tr>
 <tr>
@@ -2882,7 +2882,7 @@ De organisatiecode.</td>
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/organisatiecode">http://begrippen.geostandaarden.nl/disgeo/id/begrip/organisatiecode</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/organisatiecode">http://begrippen.geostandaarden.nl/bg/id/begrip/organisatiecode</a>
 </td>
 </tr>
 <tr>
@@ -2944,7 +2944,7 @@ De organisatiecode.</td>
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/regionaal_openbaar_lichaam">http://begrippen.geostandaarden.nl/disgeo/id/begrip/regionaal_openbaar_lichaam</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/regionaal_openbaar_lichaam">http://begrippen.geostandaarden.nl/bg/id/begrip/regionaal_openbaar_lichaam</a>
 </td>
 </tr>
 <tr>
@@ -3183,7 +3183,7 @@ Relatie die aangeeft dat het regionaal openbaar lichaam het bestuurlijk gebied h
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/samenwerkingsorganisatie">http://begrippen.geostandaarden.nl/disgeo/id/begrip/samenwerkingsorganisatie</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/samenwerkingsorganisatie">http://begrippen.geostandaarden.nl/bg/id/begrip/samenwerkingsorganisatie</a>
 </td>
 </tr>
 <tr>
@@ -3262,7 +3262,7 @@ Relatie die aangeeft dat het regionaal openbaar lichaam het bestuurlijk gebied h
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/openbaar_lichaam_uit_gemeenschappelijke_regeling">http://begrippen.geostandaarden.nl/disgeo/id/begrip/openbaar_lichaam_uit_gemeenschappelijke_regeling</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/openbaar_lichaam_uit_gemeenschappelijke_regeling">http://begrippen.geostandaarden.nl/bg/id/begrip/openbaar_lichaam_uit_gemeenschappelijke_regeling</a>
 </td>
 </tr>
 <tr>
@@ -3365,7 +3365,7 @@ Relatie die aangeeft dat het regionaal openbaar lichaam het bestuurlijk gebied h
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/gemeente">http://begrippen.geostandaarden.nl/disgeo/id/begrip/gemeente</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/gemeente">http://begrippen.geostandaarden.nl/bg/id/begrip/gemeente</a>
 </td>
 </tr>
 <tr>
@@ -3529,7 +3529,7 @@ Gemeentegebied waarin de gemeente op basis van wet- of regelgeving bepaalde take
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/provincie">http://begrippen.geostandaarden.nl/disgeo/id/begrip/provincie</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/provincie">http://begrippen.geostandaarden.nl/bg/id/begrip/provincie</a>
 </td>
 </tr>
 <tr>
@@ -3697,7 +3697,7 @@ Provinciegebied waarin de provincie op basis van wet- of regelgeving bepaalde ta
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/rijk">http://begrippen.geostandaarden.nl/disgeo/id/begrip/rijk</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/rijk">http://begrippen.geostandaarden.nl/bg/id/begrip/rijk</a>
 </td>
 </tr>
 <tr>
@@ -4129,7 +4129,7 @@ Exclusieve economische zone waarin het Rijk op basis van wet- of regelgeving bep
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/waterschap">http://begrippen.geostandaarden.nl/disgeo/id/begrip/waterschap</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/waterschap">http://begrippen.geostandaarden.nl/bg/id/begrip/waterschap</a>
 </td>
 </tr>
 <tr>
@@ -4293,7 +4293,7 @@ Waterschapsgebied waarin het waterschap op basis van wet- of regelgeving bepaald
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/disgeo/id/begrip/veiligheidsregio">http://begrippen.geostandaarden.nl/disgeo/id/begrip/veiligheidsregio</a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/veiligheidsregio">http://begrippen.geostandaarden.nl/bg/id/begrip/veiligheidsregio</a>
 </td>
 </tr>
 <tr>

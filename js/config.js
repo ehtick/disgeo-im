@@ -25,7 +25,7 @@ let respecConfig = {
   //specType: "BP",                 // Best Practice
   
   //-- pubDomain is verplicht! (komt in de URL) -------------------------------------
-  pubDomain: "disgeo",
+  pubDomain: "bg",
   
   //-- license: voor de geldende gebruiksvoorwaarden. Default is cc-by.
   licence: "cc-by-nd",            // bronvermelding, geen afgeleide werken (default)
@@ -36,7 +36,7 @@ let respecConfig = {
   shortName: "cim-bg",
   
   //edDraftURI = De URI van de draft version. Deze wordt automatisch afgeleid van de github URI; maar kan hier overschreven worden. 
-  edDraftURI: "https://geonovum.github.io/disgeo-im",
+  edDraftURI: "https://geonovum.github.io/bestuurlijke-gebieden-cm",
 
   //-- publishDate is verplicht -------------------------------------------------------
   publishDate: "2025-10-17",
