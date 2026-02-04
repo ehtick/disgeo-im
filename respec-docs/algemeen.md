@@ -58,12 +58,12 @@ Het [[EMSO]] valt binnen het toepassingsgebied van het Basismodel Geo-informatie
 
 Het semantische model van NEN3610 bestaat uit een aantal objecttypen die objecten uit de werkelijkheid op hoofdlijn classificeren. In het [[EMSO]] zijn de objecttypen, voor zover dit past, gemodelleerd als specialisatie van het NEN3610 objecttype Geo-Object of (bij voorkeur) een specialisatie van Geo-object. De verbinding met deze semantische klassen is opgenomen in het conceptueel model.
 
-<aside class="example" title="Koppeling IM DiSGeo aan semantische klassen NEN3610">
-   In het model voor Bestuurlijke gebieden is <code>BestuurlijkGebied</code> gemodelleerd als een specialisatie van het objecttype <code>RegistratieveRuimte</code>, die op haar beurt gemodellerd is als specialisatie van <code>NEN3610:RegistratieveRuimte</code>. Bestuurlijke gebieden zijn, volgens hun beschrijving in het [[EMSO]]:
+<aside class="example" title="Koppeling CIM-BG aan semantische klassen NEN3610">
+   In het CIM-BG is <code>BestuurlijkGebied</code> gemodelleerd als een specialisatie van het objecttype <code>RegistratieveRuimte</code>, die op haar beurt gemodelleerd is als specialisatie van <code>NEN3610:RegistratieveRuimte</code>. Bestuurlijke gebieden zijn, volgens hun beschrijving in het [[EMSO]]:
 
    <p>[...] <q><i>registratieve ruimten die op basis van wet- of regelgeving als eenheid gelden van politiek/bestuurlijke verantwoordelijkheid. Dit betreft bijvoorbeeld de gebieden behorende bij de vier formele bestuurslagen uit de Grondwet (Rijk, provincie, waterschap, gemeente), maar kan ook gebieden van bestuurlijke samenwerkingsverbanden met eigen politiek/bestuurlijke verantwoordelijkheid omvatten. Een voorbeeld daarvan betreft de veiligheidsregio’s.</i></q></p>
 
-   De definitie van <code>BestuurlijkGebied</code> komt overeen met de NEN3610-definitie van <code>RegistratieveRuimte</code> maar is iets nauwer. In NEN3610 kan het gaan om een eenheid die geldt voor politiek-bestuurlijke verantwoordelijkheid óf bedrijfsvoering. Van dat laatste is bij bestuurlijke gebieden geen sprake. <code>BestuurlijkGebied</code> is daarom een specialisatie van de NEN3610 <code>RegistratieveRuimte</code>. De reden dat het geen directe specialisatie is, maar er nog een objecttype <code>RegistratieveRuimte</code> tussen zit in het DiSGeo-model, is omdat er op dat niveau een status-eigenschap gepositioneerd is. Het is niet mogelijk om eigenschappen toe te kennen aan een NEN3610-object. De definitie van de DiSGeo <code>RegistratieveRuimte</code> is exact gelijk aan de definitie van de NEN3610 <code>RegistratieveRuimte</code>.
+   De definitie van <code>BestuurlijkGebied</code> komt overeen met de NEN3610-definitie van <code>RegistratieveRuimte</code> maar is iets nauwer. In NEN3610 kan het gaan om een eenheid die geldt voor politiek-bestuurlijke verantwoordelijkheid óf bedrijfsvoering. Van dat laatste is bij bestuurlijke gebieden geen sprake. <code>BestuurlijkGebied</code> is daarom een specialisatie van de NEN3610 <code>RegistratieveRuimte</code>. De reden dat het geen directe specialisatie is, maar er nog een objecttype <code>RegistratieveRuimte</code> tussen zit in het CIM-BG, is omdat er op dat niveau een status-eigenschap gepositioneerd is. Het is niet mogelijk om eigenschappen toe te kennen aan een NEN3610-object. De definitie van <code>RegistratieveRuimte</code> in CIM-BG is exact gelijk aan de definitie van de NEN3610 <code>RegistratieveRuimte</code>.
 
    <figure>
       <img src="media/bestuurlijk-gebied-nen3610-specialisatie.png" alt="Bestuurlijk gebied als specialisatie van Registratieve Ruimte"/>
@@ -138,8 +138,8 @@ Het toepassingsgebied beschrijft het deel van het van het aardoppervlak waarop h
 De onderstaande figuur is een schematische weergave van de ondersteunde CRS-en bij aanlevering en uitlevering. De volgende paragrafen beschrijven in meer detail de ondersteunde CRS-en bij aan- en uitlevering.
 
 <figure id="crs-overview">
-    <img src="media/crs-overview.drawio.png" alt="Overview van CRS-en in DiSGeo"/>
-    <figcaption>Overzicht van de ondersteunde CRS-en in het kader van DiSGeo bij aanlevering en uitlevering</figcaption>
+    <img src="media/crs-overview.drawio.png" alt="Overview van CRS-en"/>
+    <figcaption>Overzicht van de ondersteunde CRS-en bij aanlevering en uitlevering</figcaption>
 </figure>
 
 <aside class="ednote" title="snippets">

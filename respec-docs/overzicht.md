@@ -95,7 +95,7 @@ Voor de weergave van de Rijksgrens op kaarten en in registraties wordt het gebie
 De bestuurlijke gebieden in dit informatiemodel hebben relaties met objecten in andere standaarden en registraties. Deze sectie beschrijft de belangrijkste relaties en hoe de gegevens uit verschillende bronnen samenhangen.
 
 <figure>
-   <img src="media/imso-context.drawio.png" alt="De context van CIM-BG"/>
+   <img src="media/cim-bg-context.drawio.png" alt="De context van CIM-BG"/>
    <figcaption>De context van CIM-BG</figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ De geometrie van bestuurlijke gebieden wordt afgeleid uit de in dit hoofdstuk be
 
 #### Basisregistratie Kadaster (BRK)
 
-De geometrie van gemeenten, provincies en het Landgebied wordt afgeleid uit de kadastrale kaart, onderdeel van de Basisregistratie Kadaster (BRK). De relatie tussen bestuurlijke grenzen en de kadastrale kaart is als volgt:
+De geometrie van gemeenten, provincies en het landgebied wordt afgeleid uit de kadastrale kaart, onderdeel van de Basisregistratie Kadaster (BRK). De relatie tussen bestuurlijke grenzen en de kadastrale kaart is als volgt:
 
 1. **Percelen** vormen de basis: elk perceel behoort tot precies één kadastrale gemeente
 2. **Kadastrale gemeenten** zijn via een relatietabel gekoppeld aan burgerlijke gemeenten

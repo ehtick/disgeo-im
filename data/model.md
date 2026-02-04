@@ -569,7 +569,7 @@ De geometrische afbakening van het bevattendGebied, waarbinnen de geometrie van 
 <th>Toelichting</th>
 <td>Dit kan worden afgeleid op basis van de relaties:
 
-- ligtInRijksgebied
+- ligtInLandgebied
 - ligtInProvinciegebied
 - ligtInVeiligheidsregiogebied</td>
 </tr>
@@ -1253,7 +1253,7 @@ Relatie die aangeeft dat dit object een landgebied van een regionaal openbaar li
 <colgroup style="width: 70%"></colgroup>
 <tr>
 <th>Identificatie</th>
-<td>http://modellen.geostandaarden.nl/def/bg#isRijksgebiedVan</td>
+<td>http://modellen.geostandaarden.nl/def/bg#isLandgebiedVan</td>
 </tr>
 <tr>
 <th>Naam</th>
@@ -2541,7 +2541,7 @@ Provinciegebied</td>
 </td>
 <tr>
 <td>
-Rijksgebied</td>
+Landgebied</td>
 <td>
 </td>
 <tr>

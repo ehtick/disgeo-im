@@ -35,7 +35,7 @@ De volgende typen bestuurlijke gebieden zijn in scope:
 - Veiligheidsregiogebied
 - Maritieme zones: territoriale zee, aansluitende zone, exclusieve economische zone en het continentaal plat
 
-De achtergrond, rationale en volledige scope-afbakening worden beschreven in het [scopedocument Bestuurlijke Gebieden](https://geonovum.github.io/disgeo-scope/bestuurlijkegebieden/). Overige scopedocumenten worden ontwikkeld in de [GitHub repository voor DiSGeo scopedocumenten](https://github.com/Geonovum/disgeo-scope/).
+De achtergrond, rationale en volledige scope-afbakening worden beschreven in het [scopedocument Bestuurlijke Gebieden](https://geonovum.github.io/disgeo-scope/bestuurlijkegebieden/). Overige scopedocumenten worden ontwikkeld in de [GitHub repository voor scopedocumenten](https://github.com/Geonovum/disgeo-scope/).
 
 #### Samenwerkingsorganisaties in scope
 

@@ -2,14 +2,14 @@ let respecConfig = {
   useLogo: true,
   useLabel: true,
   // title is verplicht! Neem hier de titel van het document op ----------------------
-  title: "Conceptueel Informatiemodel Bestuurlijke gebieden",
+  title: "Conceptueel Informatiemodel Bestuurlijke Gebieden",
   // subtitle is NIET verplicht
   //subtitle: "",
  
   //-- specStatus is verplicht! (activeer 1 van de volgende) --------------------------
   //specStatus: "wv",                   // Werkversie
   specStatus: "cv",               // Consultatieversie
-  //specStatus: "vv",               // Versie ter vaststelling
+  // specStatus: "vv",               // Versie ter vaststelling
   //specStatus: "def",              // Vastgestelde versie
   //specStatus: "basis",            // Basis Document
   
@@ -39,13 +39,13 @@ let respecConfig = {
   edDraftURI: "https://geonovum.github.io/bestuurlijke-gebieden-cm",
 
   //-- publishDate is verplicht -------------------------------------------------------
-  publishDate: "2025-10-17",
+  publishDate: "2026-02-04",
   //eventueel is het mogelijk een versienummer mee te geven, maar bij Geonovum werken we gewoonlijk alleen met datum als onderdeel van de permanente URI.
   publishVersion: [],
   //previousVersion: "0.0.1",
   
   //-- Voor dit blok geldt: alleen als er eerdere versies zijn en altijd beiden aan/uit! 
-  previousPublishDate: "2025-05-16",
+  previousPublishDate: "2025-10-17",
   previousMaturity: "basis",
 
   preProcess: [window.respecMermaid.createFigures],
@@ -78,9 +78,9 @@ let respecConfig = {
   ],
 
   //neem hier de URL van de github repository op waar het respec document in staat
-  github: "https://github.com/Geonovum/disgeo-im",
+  github: "https://github.com/Geonovum/bestuurlijke-gebieden-cm",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/Geonovum/disgeo-im/issues/",
+  issueBase: "https://github.com/Geonovum/bestuurlijke-gebieden-cm/issues/",
 
   // Aantal niveaus van de ToC
   maxTocLevel: 7,
