@@ -2597,7 +2597,7 @@ Waterschapsgebied</td>
 <tr>
 <th>Begrip</th>
 <td>
-<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/levensfase ">http://begrippen.geostandaarden.nl/bg/id/begrip/levensfase </a>
+<a href="http://begrippen.geostandaarden.nl/bg/id/begrip/levensfase">http://begrippen.geostandaarden.nl/bg/id/begrip/levensfase</a>
 </td>
 </tr>
 <tr>
