@@ -1641,6 +1641,8 @@ Relatie die aangeeft dat dit object een veiligheidsregiogebied van een regionaal
 
 #### MaritiemeZone {#informatiemodel_cim_bg_domein_bestuurlijk_gebied_objecttype_maritieme_zone}
 
+<div data-include-format="markdown" data-include="data/maritieme-zone-detail.md"></div>
+
 <table style="width: 100%">
 <colgroup style="width: 30%"></colgroup>
 <colgroup style="width: 70%"></colgroup>
@@ -2721,6 +2723,19 @@ De voorkeursnaam van de organisatie</td>
 </tr>
 <tr>
 <td>
+<a class="link" href="#informatiemodel_cim_bg_domein_openbaar_lichaam_objecttype_overheidsorganisatie_attribuutsoort_officiele_naam_excl_soort">officieleNaamExclSoort</a>
+</td>
+<td>
+De officiële naam van de organisatie zonder soortaanduiding, bijvoorbeeld ''s-Gravenhage'</td>
+<td>
+<a class="external-link" href="https://docs.geostandaarden.nl/mim/mim/#primitief-datatype-1"> CharacterString</a>
+</td>
+<td>
+0..1</td>
+</tr>
+<tr>
+<tr>
+<td>
 <a class="link" href="#informatiemodel_cim_bg_domein_openbaar_lichaam_objecttype_overheidsorganisatie_attribuutsoort_officiele_naam_incl_soort">officieleNaamInclSoort</a>
 </td>
 <td>
@@ -2788,6 +2803,55 @@ De organisatiecode.</td>
 <tr>
 <th>Kardinaliteit</th>
 <td>1</td>
+</tr>
+<tr>
+<th>Indicatie classificerend</th>
+<td>Nee</td>
+</tr>
+<tbody>
+</tbody>
+</table>
+</section>
+<section class="notoc" id="informatiemodel_cim_bg_domein_openbaar_lichaam_objecttype_overheidsorganisatie_attribuutsoort_officiele_naam_excl_soort">
+<h6>officieleNaamExclSoort</h6>
+<table style="width: 100%">
+<colgroup style="width: 30%"></colgroup>
+<colgroup style="width: 70%"></colgroup>
+<tr>
+<th>Identificatie</th>
+<td>https://identifier.overheid.nl/tooi/def/ont/officieleNaamExclSoort</td>
+</tr>
+<tr>
+<th>Naam</th>
+<td>officieleNaamExclSoort</td>
+</tr>
+<tr>
+<th>Alias</th>
+<td>Officiële naam exclusief soort</td>
+</tr>
+<tr>
+<th>Herkomst</th>
+<td>TOOI - Ontologie 1.6.2</td>
+</tr>
+<tr>
+<th>Definitie</th>
+<td>De officiële naam van de organisatie zonder soortaanduiding, bijvoorbeeld ''s-Gravenhage'</td>
+</tr>
+<tr>
+<th>Herkomst definitie</th>
+<td>TOOI - Ontologie 1.6.2</td>
+</tr>
+<tr>
+<th>Datum opname</th>
+<td>2026-02-04</td>
+</tr>
+<tr>
+<th>Identificerend</th>
+<td>Nee</td>
+</tr>
+<tr>
+<th>Kardinaliteit</th>
+<td>0..1</td>
 </tr>
 <tr>
 <th>Indicatie classificerend</th>
